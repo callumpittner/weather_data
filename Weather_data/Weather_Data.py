@@ -4,7 +4,7 @@ import requests
 import numpy as np
 import pandas as pd
 
-API_KEY = "2f50f385d5789f4b2cfb1e5a2b11787b"
+API_KEY = ""
 
 '''
 A function to gather user parameters for lat/lon maximum and minimum values.
